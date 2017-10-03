@@ -1,3 +1,6 @@
 [submodule "3rdParty/nanogui"]
 	path = 3rdParty/nanogui
 	url = https://github.com/wjakob/nanogui.git
+[submodule "3rdParty/assimp"]
+	path = 3rdParty/assimp
+	url = https://github.com/assimp/assimp.git
